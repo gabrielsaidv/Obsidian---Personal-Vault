@@ -1,0 +1,32 @@
+# **1) Quick map of German (A1 view)**
+
+- **Alphabet & sounds:** extra letters **ä ö ü ß**.
+    - w=/v/
+    - v often =/f/ (_Vater_)
+    - j=/y/ (_ja_)
+    - z=/ts/ (_Zeit_), 
+    - s can be /z/ at word start (_sagen_).
+    - **ch** has two sounds: [ç] (_ich_) vs [x] (_Bach_).
+    - **ei**=/aɪ/ (_eins_)
+    - **ie**=/iː/ (_vier_)
+    - **eu/äu**=/ɔʏ/ (_heute_, _Häuser_). 
+- **Capitalization:** all **nouns** are capitalized (_die Stadt, der Kaffee_).
+- **Articles & gender:** 
+	- der (m), 
+	- die (f), 
+	- das (n). 
+	- Plural: die.
+- **Useful endings:** **-ung, -heit, -keit** → **die**; **-chen** → **das**.
+- **Cases (starter):**
+    - **Nominative** = subject.
+    - **Accusative** = direct object. Masculine changes: **der → den**, **ein → einen**.
+- **Word order (superpower rules):**
+    - Main clauses are **V2**: one element first, then **verb**, then subject…
+        - _Heute_ **_gehe_** _ich ins Büro._
+    - Yes/No question: **Verb first** → _Hast du Zeit?_
+    - W-question: **W-word + V + S** → _Wo wohnst du?_
+    - (Later) Subordinate: verb to end → _… weil ich Deutsch lerne._
+- **Verbs (Präsens):** stems + **-e, -st, -t, -en, -t, -en** (_lernen: ich lerne, du lernst…_).
+    - **Separable prefixes:** _aufstehen → ich stehe um 7 Uhr auf_.
+    - **Modal verbs (A1/A2):** _können, müssen, wollen_ → main verb goes to end: _Ich kann heute nicht kommen_.
+- **Politeness:** **Sie** (formal) vs **du** (informal). Use **bitte**, **danke**, **gern**.
